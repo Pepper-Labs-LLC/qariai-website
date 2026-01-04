@@ -33,10 +33,6 @@ By using Qari AI, you agree to the collection and use of information in accordan
 - **How We Use It:** We use this information to verify your subscription status and provide access to premium features.
 - **Third-Party Processing:** Apple processes all payment information. We do not have access to your payment card details.
 
-### 1.4 Progress Data
-- **What:** Your recitation history, progress metrics, and feedback are stored to help you track improvement over time.
-- **Storage:** Progress data is stored **locally on your device** and is not transmitted to our servers unless you explicitly choose to sync or backup data (if such features are available).
-
 ---
 
 ## 2. How We Use Your Information
@@ -84,7 +80,6 @@ We take data security seriously and implement appropriate technical and organiza
 - **Encryption:** Data transmitted between your device and our servers is encrypted using industry-standard protocols (HTTPS/TLS).
 - **Access Controls:** Access to data is restricted to authorized personnel only.
 - **Temporary Processing:** Audio recordings are processed in real-time and are not retained after analysis.
-- **Local Storage:** Progress data is stored locally on your device, giving you control over your information.
 
 While we strive to protect your data, no method of transmission over the internet or electronic storage is 100% secure. We cannot guarantee absolute security.
 
@@ -95,7 +90,6 @@ While we strive to protect your data, no method of transmission over the interne
 - **Audio Recordings:** Deleted immediately after real-time processing.
 - **Usage Analytics:** Retained for up to 24 months to analyze trends and improve the App.
 - **Subscription Data:** Retained as long as necessary to manage your subscription and comply with legal obligations.
-- **Progress Data:** Stored locally on your device until you delete the App or manually clear data.
 
 ---
 
@@ -104,8 +98,7 @@ While we strive to protect your data, no method of transmission over the interne
 You have the following rights regarding your personal information:
 
 ### 6.1 Access and Deletion
-- **Local Data:** You can delete progress data stored on your device by uninstalling the App or clearing App data through your device settings.
-- **Account Data:** If you wish to request deletion of any data we hold, contact us at **pepperlabs8@gmail.com**.
+- If you wish to request deletion of any data we hold, contact us at **pepperlabs8@gmail.com**.
 
 ### 6.2 Opt-Out of Analytics
 - You may be able to limit analytics collection through your device settings or by contacting us.
@@ -120,7 +113,6 @@ You have the following rights regarding your personal information:
 Qari AI is intended for users of all ages, including children who are learning Quran recitation. We do not knowingly collect personal information from children under 13 without parental consent.
 
 - **Audio Recordings:** Not permanently stored.
-- **Progress Data:** Stored locally on the device.
 - **No Account Required:** We do not require children to create accounts or provide personal information.
 
 If you believe we have inadvertently collected personal information from a child under 13, please contact us at **pepperlabs8@gmail.com**, and we will promptly delete such information.
@@ -170,10 +162,9 @@ This Privacy Policy complies with:
 ## Summary
 
 - ✅ **Audio recordings are processed in real-time and not permanently stored.**
-- ✅ **Progress data is stored locally on your device.**
 - ✅ **We do not sell your personal information.**
 - ✅ **Third-party services (Apple, OpenAI, etc.) are used for processing and infrastructure.**
-- ✅ **You can delete your data at any time by uninstalling the App or contacting us.**
+- ✅ **You can request deletion of any data we hold by contacting us.**
 
 Thank you for trusting Qari AI to support your Quran recitation journey.
 
