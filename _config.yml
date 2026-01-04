@@ -1,2 +1,6 @@
 title: Qari AI - Privacy Policy & Support
 description: Privacy Policy and Support for Qari AI - Master Your Voice iOS App
+
+# Exclude README.md from being processed as a page
+exclude:
+  - README.md
